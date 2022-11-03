@@ -1,5 +1,7 @@
 #include<stdio>
 viod main()
 {
-  print("Hello Krishna");
+  printf("Hello Krishna");
+  printf("n/This is a simple C program");
+  
 }
